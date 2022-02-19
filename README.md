@@ -1,24 +1,9 @@
-# README
+[![Rails version](https://badgen.net/badge/rails/7.0.1/red)](https://npmjs.com/package/express)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 🧬 Specs
+ - Font Awesome 5.15.4
+ - SB Admin 2
+ - Rubocop
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Git branches (workflow) - [gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+![Drag Racing](public/gitflow.svg)
